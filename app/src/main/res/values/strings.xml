@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoTutorial</string>
+    <string-array name="names">
+        <item>Select Name</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+</resources>
